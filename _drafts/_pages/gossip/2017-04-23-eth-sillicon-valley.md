@@ -1,7 +1,7 @@
 ---
 title: Silicon Valley
 published: true
-datetime: '2017-04-23 22:46'
+datetime: 2017-04-23 22:46
 ---
 
 Silicon Valley Season 4 is all about decentralized tech. Whoop! See phase IV -> "Ethereum-type compute".
