@@ -1,0 +1,74 @@
+<html>
+  <head>
+    <title> ==== Fast News ==== </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Fira+Sans+Condensed:400,700|Alegreya:400i' rel='stylesheet'>
+    <link rel="stylesheet" href="assets/trading.v2.css">
+  </head>
+  <body>
+  <script src="https://unpkg.com/vue/dist/vue.min.js"></script><!-- 2.2.1 -->
+  <script src="https://cdn.jsdelivr.net/vue.resource/1.0.3/vue-resource.min.js"></script>
+  <script src="assets/vue-markdown.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js" charset="utf-8"></script>
+  <div class="datablock">
+    <section id="altindex">
+      <div v-for="article in $data.gridData">
+          <h4 class="post">{{article["title"]}}</h4>
+          <em>Published {{article.datetime | moment }}</em>
+          <article><vue-markdown :source="article.content"></vue-markdown></article>
+          <p><img v-bind:src="article['image']"></p>
+      </div>
+    </section>
+  </div>
+  <script type="text/javascript">
+
+  Vue.use(VueResource)
+  Vue.use(VueMarkdown)
+
+  var altindex = new Vue({
+
+      el: '#altindex',
+      data: {
+        gridData: [
+        "-"
+        ]
+      },
+      filters: {
+        moment: function(str) {
+          var d = new Date(str);
+          if (moment(d).isValid() ) {
+            return moment(d).format('MMMM Do \'YY, h:mm a');
+          } else {
+            return "-";
+          }
+        }
+      },
+      mounted: function() {
+        var vm = this
+        vm.$http.get("https://news.altcointrading.net/feed/newsblade/index.json")
+          .then(function (response) {
+            vm.gridData = response.data.sort(function(x, y){
+                date1 = new Date(x.datetime)
+                date2 = new Date(y.datetime)
+                return date2 - date1
+              })
+          })
+          .catch(function (error) {
+            vm.gridData = error
+          })
+        setInterval(function() {
+          vm.$http.get("https://news.altcointrading.net/feed/newsblade/index.json")
+            .then(function (response) {
+              vm.gridData = response.data.sort(function(x, y){
+                  date1 = new Date(x.datetime)
+                  date2 = new Date(y.datetime)
+                  return date2 - date1
+                })
+            })
+        }, 1000)
+      }
+  })
+  </script>
+
+</body>
+</html>
