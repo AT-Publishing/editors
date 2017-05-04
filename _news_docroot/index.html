@@ -3,7 +3,7 @@
 <head>
 
 <!-- page level -->
-<script async src="https://www.altcointrading.net//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
     (adsbygoogle = window.adsbygoogle || []).push({
       google_ad_client: "ca-pub-6979812205705127",
@@ -164,11 +164,20 @@ img{max-width:100%!important}
 
    <div class="datablock">
      <section id="altindex">
-       <div v-for="article in $data.gridData">
+     <div class="clearfix clearfix adfix">
+     <amp-ad layout="responsive" width="728px" height="90px" type="adsense" data-ad-client="ca-pub-6979812205705127" data-ad-slot="4445157690"></amp-ad>
+     </div>
+     <div class="clearfix"></div>
+       <div v-for="article in $data.gridData.slice(0, 20)">
            <h4 class="post">{{article["title"]}}</h4>
            <em>Published {{article.datetime | moment }}</em>
            <article><vue-markdown :source="article.content"></vue-markdown></article>
-           <p><img v-bind:src="article['image']"></p>
+           <p>
+           <img v-bind:src="article['image']">
+           <span v-if="article == $data.gridData[0]">
+            <amp-ad layout="responsive" width="728px" height="90px" type="adsense" data-ad-client="ca-pub-6979812205705127" data-ad-slot="4445157690"></amp-ad>
+           </span>
+           </p>
        </div>
      </section>
    </div>
@@ -193,6 +202,12 @@ img{max-width:100%!important}
            } else {
              return "-";
            }
+         },
+         limit: function(arr, limit) {
+           return arr.slice(0, limit)
+         },
+         offset: function(arr, ofs) {
+           return arr.slice(ofs, arr.length)
          }
        },
        mounted: function() {
@@ -233,7 +248,7 @@ img{max-width:100%!important}
       <div id="sidebar">
       <section>
       <ul class="divided">
-       <li><!-- testing AdSense below fold -->
+       <li>
         <amp-ad
             layout="responsive"
             width="300px"
@@ -254,17 +269,6 @@ img{max-width:100%!important}
           <amp-img layout="fill" src="https://www.altcointrading.net/img/ads/ad-placeholder.jpg" placeholder></amp-img>
         </amp-iframe>
       </div>
-      </li>
-      <li><!-- testing AdSense below fold -->
-        <script async src="https://www.altcointrading.net//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <amp-ad
-            layout="responsive"
-            width="320px"
-            height="100px"
-            type="adsense"
-            data-ad-client="ca-pub-6979812205705127"
-            data-ad-slot="4508876499">
-       </amp-ad>
       </li>
       <li>
         <h3>Coupon Codes For Crypto Exchanges:</h3>
@@ -365,7 +369,7 @@ img{max-width:100%!important}
 <script type="application/json">
 {
   "vars": {
-    "account": "UA-73503011-2"
+    "account": "UA-73503011-3"
   },
   "triggers": {
     "trackPageview": {

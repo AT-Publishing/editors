@@ -3,9 +3,16 @@
   
   
   {
-    "url": "/gossip/index.json",
-    "path": "gossip/index.json",
-    "dir": "/gossip/",
+    "url": "/cryptotradingtools/index.json",
+    "path": "cryptotradingtools/index.json",
+    "dir": "/cryptotradingtools/",
+    "last_modified_at": ""
+  }
+  ,
+  {
+    "url": "/index.json",
+    "path": "index.json",
+    "dir": "/",
     "last_modified_at": ""
   }
   ,
@@ -17,9 +24,9 @@
   }
   ,
   {
-    "url": "/index.json",
-    "path": "index.json",
-    "dir": "/",
+    "url": "/gossip/index.json",
+    "path": "gossip/index.json",
+    "dir": "/gossip/",
     "last_modified_at": ""
   }
 ]
