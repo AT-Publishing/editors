@@ -5,8 +5,6 @@ datetime: '2017-05-04T15:09:23.392Z'
 ---
 
 
-![](/uploads/2017/05/04/casaobscura1.jpg)
-
 Lorem ipsum dolor dit amet
 
 ## well
