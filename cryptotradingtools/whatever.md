@@ -11,5 +11,5 @@ svn webvubvuqebvuoryv
 
 noch einmal
 
-![](/_news_docroot/feed/img/bfxdata1.png)
+![](/uploads/2017/05/04/casaobscura1.jpg)
 
