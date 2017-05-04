@@ -1,5 +1,0 @@
----
-title: Free money
----
-
-test
