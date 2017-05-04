@@ -11,3 +11,4 @@ Take a look at the commits here - https://github.com/carlos8f/zenbot/commits/ma
 
 Once again, don't use it without modifications.
 
+[GitHub - 4.x branch of "zenbot"](https://github.com/carlos8f/zenbot/tree/4.x)
