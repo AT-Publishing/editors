@@ -5,6 +5,8 @@ datetime: '2017-05-22T13:18:30.201Z'
 ---
 
 
-LTC and ETH pairs coming up in June 2017
+LTC and ETH pairs coming up in June 2017.
+
+Oh and margin trading!
 
 https://www.bitstamp.net/article/bitstamp-announces-phase-ii-its-development/
