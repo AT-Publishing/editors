@@ -5,7 +5,7 @@ datetime: '2017-05-30T13:25:08.260Z'
 ---
 
 
-One day is remaining to the [Basic Attention Token ICO](https://basicattentiontoken.org/bat-crowdsale-overview-and-how-to-participate/) - mentioned in our latest newsletter.
+One day is remaining to the [Basic Attention Token ICO](https://basicattentiontoken.org/bat-crowdsale-overview-and-how-to-participate/) - [mentioned in our latest newsletter](http://us15.campaign-archive2.com/?u=b5cca524e997c8e12f8ad51e1&id=69ae85671a).
 
 To participate you need ETH for the investment and ETH to pay for gas - expect higher prices.
 
