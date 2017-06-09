@@ -3,9 +3,9 @@ title: Modified version of P/E for crypto
 date: '2017-06-09T05:06:49+00:00'
 datetime: '2017-06-09T09:06:49.957Z'
 ---
-
-
 http://www.marketwatch.com/story/is-bitcoin-in-a-bubble-this-metric-suggests-theres-more-room-to-grow-2017-06-08
+
+![](http://ei.marketwatch.com//Multimedia/2017/06/08/Photos/NS/MW-FO040_bitcoi_20170608112701_NS.jpg?uuid=eb41e464-4c5e-11e7-9822-9c8e992d421e)
 
 Bitcoin’s “P/E ratio” looks at the digital currency’s network value—the number of outstanding bitcoins multiplied by price; this figure is currently $44.69 billion—against its daily transaction volume.
 
@@ -22,4 +22,3 @@ He added that over time, cryptocurrencies would find a “base range” for valu
 While high P/E ratios are often seen as sell signals for stocks, Burniske suggested that any kind of extreme reading on this metric could signal a bitcoin selloff.
 
 “This ratio drops when bitcoin is in the late stages of rallies, because investors would take profits or move their money between exchanges out of nervousness. That leads to a lot of transaction value, which makes the denominator higher. That’s why it’s important to me, from a valuation standpoint, that it isn’t high or low.”
-
