@@ -1,7 +1,7 @@
 ---
-title: IOTA team AMA on Reddit this Tue or Wed
 date: 2017-09-03 14:55:59 +0000
-datetime: ''
+title: IOTA team AMA on Reddit this Tue or Wed
+datetime: 2017-09-03 00:00:00 +0200
 ---
 ![](https://i.redditmedia.com/p055vdXomxRO07f-c1Ahjx6NTjVga_ucOjPuQDXHIqw.png?w=1024&s=8ee2b7b2227d0c87003c79fda91c383d)
 
