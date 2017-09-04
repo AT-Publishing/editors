@@ -1,7 +1,7 @@
 ---
 title: More news from North Korea
 date: 2017-09-04 09:43:16 +0000
-datetime: ''
+datetime: 2017-09-04 08:00:00 +0200
 ---
 > https://www.ft.com/content/5f0141f7-b773-3cd0-bba0-ba4e438a3aee
 
