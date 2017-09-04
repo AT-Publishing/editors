@@ -1,7 +1,7 @@
 ---
 title: BTC-e Update
 date: 2017-08-25 19:11:59 +0000
-datetime: ''
+datetime: 2017-08-25 00:00:00 +0200
 ---
 [bitcointalk](https://bitcointalk.org/index.php?topic=2120011.0)
 
