@@ -3,40 +3,16 @@ title: Electrum 3.0 with SegWit is out
 date: 2017-09-17 14:00:27 +0000
 datetime: 2017-09-16 19:00:00 +0200
 ---
+
+
 [Link to Changelog](https://github.com/spesmilo/electrum/blob/master/RELEASE-NOTES)
 
+The release is not official yet, use at your own risk.
 
 # Release 3.0 - Uncanny Valley
 
-  * The project was migrated to Python3. Python2 is no longer
-    supported. If you cloned the source directory, you will need to
-    run "python3 setup.py install" in order to install the new
-    dependencies.
+*
 
-  * Segwit support:
-    - P2SH-segwit scripts are supported and can be used with hardware
-      wallets. To create a segwit wallet, trezor/ledger users will
-      need to provide a BIP49 derivation path.
-    - Native segwit scripts are supported with Electrum software
-      wallets, using a new type of seed. Segwit seeds have version
-      0x100. Note that the wizard will not create Segwit seeds by
-      default; users must opt-in with the segwit option.
-    - Native segwit scripts are represented using bech32 addresses,
-      following BIP173. Please note that BIP173 is still in draft
-      status, and that other wallets/websites may not support
-      it. Thus, you should keep a non-segwit wallet in order to be
-      able to receive bitcoins during the transition period. If BIP173
-      ends up being rejected or substantially modified, bech32 wallets
-      may have to be restored from seed. This will not affect funds
-      sent to bech32 addresses, and it will not affect the capacity of
-      Electrum to spend these funds.
-    - The BIP32 master keys of segwit wallets are serialized using new
-      version numbers. Version numbers are user visible, with the
-      following prefixes:
-         * xpub/xprv : non-segwit wallet
-         * ypub/yprv : segwit-p2sh wallet
-         * zpub/zprv : native segwit wallet
+*
 
-  * A new version of the Electrum protocol is required by the client
-    (version 1.1). Servers using older versions of the protocol will
-    not be visible in the GUI.
+*
