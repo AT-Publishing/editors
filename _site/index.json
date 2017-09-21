@@ -1,0 +1,39 @@
+
+[
+  
+  
+  {
+    "url": "https://news.altcointrading.net/feed/gossip/index.json",
+    "path": "gossip/index.json",
+    "dir": "/gossip/",
+    "last_modified_at": ""
+  }
+  ,
+  {
+    "url": "https://news.altcointrading.net/feed/index.json",
+    "path": "index.json",
+    "dir": "/",
+    "last_modified_at": ""
+  }
+  ,
+  {
+    "url": "https://news.altcointrading.net/feed/cryptotradingtools/index.json",
+    "path": "cryptotradingtools/index.json",
+    "dir": "/cryptotradingtools/",
+    "last_modified_at": ""
+  }
+  ,
+  {
+    "url": "https://news.altcointrading.net/feed/newsblade/index.json",
+    "path": "newsblade/index.json",
+    "dir": "/newsblade/",
+    "last_modified_at": ""
+  }
+  ,
+  {
+    "url": "https://news.altcointrading.net/feed/newsblade/index.v2.json",
+    "path": "newsblade/index.v2.json",
+    "dir": "/newsblade/",
+    "last_modified_at": ""
+  }
+]
