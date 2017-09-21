@@ -111,7 +111,7 @@ pages:
 hide_body: false
 fields:
 - type: datetime
-  name: datetime
+  name: datetimeold
   config:
     date_format: DD/MM/YY
     time_format: hh:mm
