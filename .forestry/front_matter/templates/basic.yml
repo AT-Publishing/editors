@@ -111,3 +111,8 @@ hide_body: false
 fields:
 - type: datetime
   name: datetime
+  config:
+    date_format: DD/MM/YY
+    time_format: hh:mm
+    required: true
+  label: testing this bloody hell fucking bug from forestry
