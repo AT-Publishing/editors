@@ -117,3 +117,9 @@ fields:
     time_format: hh:mm
     required: true
   label: testing this bloody hell fucking bug from forestry
+- type: text
+  name: datetime
+  label: datetime string
+  config:
+    required: true
+  description: kundy!!!
