@@ -108,17 +108,4 @@ pages:
 - gossip/let-s-work.md
 - gossip/foz.md
 hide_body: false
-fields:
-- type: datetime
-  name: datetimeold
-  config:
-    date_format: DD/MM/YY
-    time_format: hh:mm
-    required: true
-  label: testing this bloody hell fucking bug from forestry
-- type: text
-  name: datetime
-  label: datetime string
-  config:
-    required: true
-  description: kundy!!!
+fields: []
