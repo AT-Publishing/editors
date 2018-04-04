@@ -7,11 +7,12 @@ navi:
 
 /atnet.json
   Content-type: application/json; charset=utf-8
-  Access-Control-Allow-Origin: *
   X-Frame-Options: ALLOW
+  Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token
   Access-Control-Allow-Credentials: true
-  Access-Control-Allow-Origin: https://atnet-feeds.netlify.com
-  AMP-Access-Control-Allow-Source-Origin: https://atnet-feeds.netlify.com
+  Access-Control-Allow-Origin: https://atnet-feeds.netlify.com/
+  AMP-Access-Control-Allow-Source-Origin: https://atnet-feeds.netlify.com/
+  Access-Control-Allow-Methods: POST, GET, OPTIONS
   Access-Control-Expose-Headers: AMP-Access-Control-Allow-Source-Origin
 /index.json
   Content-type: application/json; charset=utf-8
