@@ -1,9 +1,0 @@
----
----
-{% assign isFirst = true %}
-[{% for item in site.pages %}{% if item.dir contains page.dir and item.url != page.url %}
-  {% if isFirst != true %},{% endif %}{% assign isFirst = false %}
-  {"url": "https://news.altcointrading.net/feed{{ item.url | escape }}",
-    "path": "{{ item.path | escape }}",
-    "dir": "{{ item.dir | escape }}",
-    "last_modified_at": "{{ item.datetime | escape }}"}{% endif %}{% endfor %}]

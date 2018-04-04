@@ -5,7 +5,7 @@
   {% for item in site.pages%}{% if item.name contains '.json' %}
   {% if isFirst != true %},{% endif %}{% assign isFirst = false %}
   {
-    "url": "https://news.altcointrading.net/feed{{ item.url | escape }}",
+    "url": "{{ site.url }}{{ site.baseurl }}{{ item.url | escape }}",
     "path": "{{ item.path | escape }}",
     "dir": "{{ item.dir | escape }}",
     "last_modified_at": "{{ page.last_modified_at }}"

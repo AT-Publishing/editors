@@ -1,0 +1,13 @@
+---
+layout: null
+permalink: "_headers"
+navi:
+ exclude: yes
+---
+
+/atnet.json
+  Access-Control-Allow-Origin: *
+  X-Frame-Options: ALLOW
+/index.json
+  Access-Control-Allow-Origin: *
+  X-Frame-Options: ALLOW

@@ -1,8 +1,0 @@
----
----
-{% assign isFirst = true %}
-[{% for item in site.pages %}{% if item.dir contains page.dir and item.url != page.url %}
-  {% if isFirst != true %},{% endif %}{% assign isFirst = false %}
-  {{ item | jsonify }}
-  {% endif %}{% endfor %}
-]

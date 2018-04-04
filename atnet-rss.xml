@@ -1,0 +1,42 @@
+---
+layout: null
+navi:
+ exclude: yes
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+
+    <title>{{ site.title | xml_escape }} Fib Charts</title>
+    <description>
+      Daily newsblade at AltcoinTrading.NET
+    </description>
+
+    <language>en</language>
+
+
+    <link>https://www.altcointrading.net</link>
+    <atom:link href="{{ "/atnet-rss.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+
+    {% for post in site.pages limit:20 %}
+      <item>
+
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.description | xml_escape }}</description>
+
+        <pubDate>{{ post.last_modified_at  | date_to_rfc822 }}</pubDate>
+
+        {% if post.image[0] %}<media:content url="{{ post.image[0] | prepend: site.baseurl | prepend: site.url }}" medium="image" />{% endif %}
+
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+
+      </item>
+    {% endfor %}
+
+
+  </channel>
+</rss>

@@ -1,1 +1,5 @@
 #theme: jekyll-theme-minimal
+
+
+# get last modified at
+gems: [jekyll-last-modified-at]
