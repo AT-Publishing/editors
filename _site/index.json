@@ -6,13 +6,13 @@
     "url": "http://localhost:4000/atnet.json",
     "path": "atnet.json",
     "dir": "/",
-    "last_modified_at": "2017-09-19 16:03:19 +0200"
+    "last_modified_at": "2018-04-03 20:57:11 -0400"
   }
   ,
   {
     "url": "http://localhost:4000/index.json",
     "path": "index.json",
     "dir": "/",
-    "last_modified_at": "2017-09-19 16:03:19 +0200"
+    "last_modified_at": "2018-04-03 20:57:11 -0400"
   }
 ]

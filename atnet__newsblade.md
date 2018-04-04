@@ -6,5 +6,6 @@ links: [
 ["Title 3", "https://example.com/#3"],
 ["Title 4", "https://example.com/#4"]
 ]
-
+layout: newsblade
+permalink: /newsblade
 ---

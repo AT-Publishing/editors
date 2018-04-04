@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ATNET Newsblade</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
+  </head>
+  <style media="screen">
+
+   ol {
+     list-style: none;
+   }
+   li {
+     counter-increment: item;
+     margin-bottom: 5px;
+     font-style: oblique;
+   }
+   li:before {
+     margin-right: 10px;
+    content: counter(item);
+    color: #68707b;
+    border-radius: 0;
+    background: transparent;
+    width: auto;
+    text-align: center;
+    display: block;
+    font-size: 30px;
+   }
+   a {
+     color: #000b17;
+     font-family: "Droid Sans",sans-serif;
+     font-weight: 800;
+     font-style: normal;
+   }
+  </style>
+  <body>
+    <ol>
+    
+      <li><a href="https://example.com/#1" target="_blank">Title 1</a></li>
+    
+      <li><a href="https://example.com/#2" target="_blank">Title 2</a></li>
+    
+      <li><a href="https://example.com/#3" target="_blank">Title 3</a></li>
+    
+      <li><a href="https://example.com/#4" target="_blank">Title 4</a></li>
+    
+  </ol>
+  </body>
+</html>
