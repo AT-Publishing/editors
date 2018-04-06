@@ -1,6 +1,7 @@
 ---
 category: 'news'
 links: [
+["OmiseGo-Shinhan Partnership - Is This A Blow On Ripple?","https://ethereumworldnews.com/omisego-shinhan-partnership-is-this-a-blow-on-xrp/"],
 ["What’s In Store For ASIC Miner E3 And Ethereum Miners?","https://globalcoinreport.com/whats-in-store-for-asic-miner-e3-and-ethereum-miners/"],
 ["The SEC has quietly begun soliciting public opinion on whether two proposed Bitcoin Futures ETFs should be listed on NYSE Arca.", "http://time.com/money/5227160/this-is-the-clearest-sign-yet-that-the-bitcoin-bubble-may-have-burst/"],
 ["BreadWallet adds ETH support with an airdrop for BRD holders", "https://breadapp.com/blog/bread-rewards-waterfall/"],
