@@ -33,11 +33,19 @@
      font-weight: 800;
      font-style: normal;
    }
+   li > span {
+      font-style: normal;
+      font-family: "Droid Sans",sans-serif;
+      font-size: small;
+      color: #68707bcf;
+      position: relative;
+      top: -1px;
+   }
   </style>
   <body>
     <ol>
     {% for link in page.links %}
-      <li><a href="{{ link[1] }}" target="_blank">{{ link[0]}}</a></li>
+      <li><a href="{{ link[1] | strip }}" target="_blank">{{ link[0] | strip }}</a> <span>{{ link[1] | remove:'https://' | split:'/' | first | upcase }}</span></li>
     {% endfor %}
   </ol>
   </body>
