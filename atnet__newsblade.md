@@ -1,11 +1,12 @@
 ---
 category: 'news'
 links: [
+["More than 50 teams have entered a bitcoin cash (BCH) tokenization challenge", "https://news.bitcoin.com/over-50-teams-enter-5-million-bitcoin-cash-tokenization-contest/"],
+["Verge-TokenPay Mystery Partnership To Produce Debit Card", "https://ethereumworldnews.com/verge-tokenpay-mystery-partnership-to-produce-debit-card/"],
+["@Bitcoin returns after Twitter ban","https://coingeek.com/im-back-bitcoin-returns-after-twitter-ban/"],
+["PayPal stock rises after Morgan Stanley dismisses Bitcoin threat, calls PayPal's dominance 'unwavering'", "https://www.marketwatch.com/story/paypal-stock-rises-after-morgan-stanley-says-its-dominance-is-unwavering-dismisses-bitcoin-threat-2018-04-09"],
 ["Introduction to the Dai Stablecoin", "https://www.meetup.com/Stanford-Bitcoin-Meetup/events/249579213/?_cookie-check=VyTOo8CaszMfaAS-"],
-["Former Mt. Gox CEO Questions Bitcoins Evolution", "https://www.investopedia.com/news/former-mt-gox-ceo-questions-bitcoins-evolution/"],
-["Twitter takes away @bitcoin from BCH fans and Roger Ver is crying free speech", "https://thenextweb.com/hardfork/2018/04/09/twitter-shut-bitcoin-roger-ver-crying-free-speech"],
-["Cryptocurrencies banned in Pakistan – Notice by State Bank", "https://ambcrypto.com/bitcoin-btc-and-other-cryptocurrencies-banned-in-pakistan-notice-by-state-bank-of-pakistan/"],
-["Class Action Lawsuit Filed Against Nano And Core Team Members", "https://ethereumworldnews.com/class-action-lawsuit-filed-against-nano-and-core-team-members/"]
+["Former Mt. Gox CEO Questions Bitcoins Evolution", "https://www.investopedia.com/news/former-mt-gox-ceo-questions-bitcoins-evolution/"]
 ]
 layout: newsblade
 permalink: /newsblade
