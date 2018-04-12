@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["Contract Vault and ChainSecurity join forces to provide smart contract auditing services", "https://medium.com/contract-vault/contract-vault-and-chainsecurity-join-forces-to-provide-smart-contract-auditing-services-294e1f1d61c8"],
-["GDPR Vs. ICOs // No matter how you look at it, the result is not bad for the customer.", "https://cryptodisrupt.com/gdpr-vs-icos/"],
-["Vitalik Buterin opposes Ethereum anti-ASIC fork", "https://www.finder.com.au/vitalik-buterin-opposes-ethereum-anti-asic-fork"],
-["Verge-TokenPay Mystery Partnership To Produce Debit Card", "https://ethereumworldnews.com/verge-tokenpay-mystery-partnership-to-produce-debit-card/"]
+["Vietnam calls for tougher measures on cryptocurrency deals amid alleged scam", "https://www.reuters.com/article/us-vietnam-cryptocurrency/vietnam-calls-for-tougher-measures-on-cryptocurrency-deals-amid-alleged-scam-idUSKBN1HI1YV"],
+["Japan is regulating the industry while remaining friendly towards crypto", "https://buff.ly/2qraaOd"],
+["Ex-Goldman Sachs Economist // Bitcoin Is Response To World Debt Bubble", "http://bitcoinist.com/ex-goldman-sachs-economist-bitcoin-response-world-debt-bubble/"],
+["Marketwatch says the real concern is that if the price of bitcoin continues to fall, mining will become infeasible", "https://www.marketwatch.com/story/this-is-all-it-would-take-for-bitcoin-to-become-a-worthless-cryptocurrency-2018-04-12"]
 ]
 layout: newsblade
 permalink: /newsblade
