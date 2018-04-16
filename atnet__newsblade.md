@@ -1,10 +1,9 @@
 ---
 category: 'news'
 links: [
-["Russia to ban Telegram messenger over encryption dispute", "https://www.reuters.com/article/us-russia-telegram-block/russia-to-ban-telegram-messenger-over-encryption-dispute-idUSKBN1HK10B"],
-["Yahoo Japan to buy minority stake in cryptocurrency exchange", "https://reut.rs/2qsZbUm"],
-["India's Coinsecure exchange says $3 million worth of bitcoins stolen", "https://reut.rs/2qv42EA"],
-["Vietnam calls for tougher measures on cryptocurrency deals amid alleged scam", "https://www.reuters.com/article/us-vietnam-cryptocurrency/vietnam-calls-for-tougher-measures-on-cryptocurrency-deals-amid-alleged-scam-idUSKBN1HI1YV"],
+["Russia actually started blocking Telegram today", "https://reut.rs/2qzY999"],
+["BCH folks found out how to make its blocks full / Memo, an On-Chain Social Network Built on Bitcoin Cash", "https://news.bitcoin.com/meet-memo-an-on-chain-social-network-built-on-bitcoin-cash/"],
+["Cardano/ADA price jumps, coin to be listed on Huobi", "https://ethereumworldnews.com/cardano-ada-to-be-launched-on-chinese-largest-exchange/"],
 ["Japan is regulating the industry while remaining friendly towards crypto", "https://buff.ly/2qraaOd"]
 ]
 layout: newsblade
