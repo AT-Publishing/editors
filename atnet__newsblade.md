@@ -1,7 +1,7 @@
 ---
 category: 'news'
 links: [
-["Adoption // Amazon launches AWS templates for Ethereum and Hyperledger Fabric blockchains", "https://www.journaltranscript.com/2018/04/amazon-web-services-introduces-special-blockchain-networks-for-ethereum-and-hyperledger-fabric-platforms/"],
+["Adoption // Amazon launches AWS templates for Ethereum and Hyperledger Fabric blockchains", "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-blockchain-templates/"],
 ["Privacy // Twitter bans ads from Kaspersky Lab, citing connections to Russian intelligence agencies as reason", "https://reut.rs/2qOnrAw"],
 ["Markets // Bitcoin Cash has risen 80% over the last week", "http://www.businessinsider.com/bitcoin-cash-april-price-rally-2018-4"],
 ["Security // Foxit PDF Reader has a vulnerability that can have a malicious PDF file execute any random JavaScript", "https://blog.talosintelligence.com/2018/04/multiple-vulns-foxit-pdf-reader.html"],
