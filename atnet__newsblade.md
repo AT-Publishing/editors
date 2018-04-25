@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["Do not use MEW if you use Google DNS, your keys might get stolen", "https://thenextweb.com/insider/2018/04/24/myetherwallet-mew-suffers-dns-attack-user-funds-stolen/"],
-["Survey among 400 corporate clients across Thomson Reuters Corp // 70 percent said they were planning to start trading cryptocurrencies in the next three to six months", "https://reut.rs/2F9Wqfm"],
-["Adoption // Amazon launches AWS templates for Ethereum and Hyperledger Fabric blockchains", "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-blockchain-templates/"],
-["Security // Foxit PDF Reader has a vulnerability that can have a malicious PDF file execute any random JavaScript", "https://blog.talosintelligence.com/2018/04/multiple-vulns-foxit-pdf-reader.html"]
+["Ethereum Smart Contract Bug Causes Suspension of ERC20 Deposits", "https://cryptocurrencynews.com/daily-news/crypto-news/ethereum-smart-contract-bug/"],
+["Tim Draper still bullish on bitcoin, down on China", "https://finance.yahoo.com/news/draper-still-bullish-bitcoin-china-171443999.html"],
+["Bitcoin Hash Rate Remains Strong Despite Massive Price Dip in Q1", "https://themerkle.com/bitcoin-hash-rate-remains-strong-despite-massive-price-dip-in-q1/"],
+["Survey among 400 corporate clients across Thomson Reuters Corp // 70 percent said they were planning to start trading cryptocurrencies in the next three to six months", "https://reut.rs/2F9Wqfm"]
 ]
 layout: newsblade
 permalink: /newsblade
