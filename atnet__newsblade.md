@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["Ethereum Smart Contract Bug Causes Suspension of ERC20 Deposits", "https://cryptocurrencynews.com/daily-news/crypto-news/ethereum-smart-contract-bug/"],
-["Tim Draper still bullish on bitcoin, down on China", "https://finance.yahoo.com/news/draper-still-bullish-bitcoin-china-171443999.html"],
-["Bitcoin Hash Rate Remains Strong Despite Massive Price Dip in Q1", "https://themerkle.com/bitcoin-hash-rate-remains-strong-despite-massive-price-dip-in-q1/"],
-["Survey among 400 corporate clients across Thomson Reuters Corp // 70 percent said they were planning to start trading cryptocurrencies in the next three to six months", "https://reut.rs/2F9Wqfm"]
+["Bill Harris, the PayPal CEO, calls it a 'pump-and-dump scheme'", "https://www.express.co.uk/finance/city/951442/Bitcoin-price-ripple-paypal-cryptocurrency-ethereum-BTC-to-USD-XRP-news"],
+["Are we at the beginning of a global recession? // In \"Australian Economy Is a House of Cards\"", "https://medium.com/@matt_11659/matt-barrie-australias-economy-is-a-house-of-cards-6877adb3fb2f"],
+["KNC and OMG have surged 73% and 32% upon the announcement of Bithumb’s integration.", "https://www.ccn.com/kyber-network-and-omisego-surge-70-with-bithumb-integration-bitcoin-below-9000/"],
+["Bitcoin Hash Rate Remains Strong Despite Massive Price Dip in Q1", "https://themerkle.com/bitcoin-hash-rate-remains-strong-despite-massive-price-dip-in-q1/"]
 ]
 layout: newsblade
 permalink: /newsblade
