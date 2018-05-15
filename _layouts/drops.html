@@ -72,18 +72,18 @@ wut
         },
         mounted: function() {
           var vm = this
-          vm.$http.get("https://medium.com/feed/cryptolounge?alt=json-in-script")
+          vm.$http.get("https://data.altcointrading.net/drops/medium.json")
             .then(function (response) {
               console.log(response.data)
-              vm.gridData = response.data //["data"]["children"].slice(1,6) //[0]["data"]["title"]
+              vm.gridData = response.data["payload"]["posts"] //["data"]["children"].slice(1,6) //[0]["data"]["title"]
             })
             .catch(function (error) {
               vm.gridData = error
             })
           setInterval(function() {
-            vm.$http.get("https://medium.com/feed/cryptolounge?alt=json-in-script")
+            vm.$http.get("https://data.altcointrading.net/drops/medium.json")
               .then(function (response) {
-                vm.gridData = response.data //["data"]["children"].slice(1,6) //[0]["data"]["title"]
+                vm.gridData = response.data["payload"]["posts"] //["data"]["children"].slice(1,6) //[0]["data"]["title"]
               })
           }, 10000)
         }
