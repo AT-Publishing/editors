@@ -74,6 +74,7 @@
          vm.$http.get("https://data.altcointrading.net/drops/medium.json")
            .then(function (response) {
              vm.grid = response.data["payload"]["posts"]
+             console.log(response.data["payload"]["posts"])
            })
        }//mtd
       })
