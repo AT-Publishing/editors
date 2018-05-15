@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ATNET Airdrops</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
+    <style media="screen">
+    body{margin:0}
+    a, a:hover {color: #7A838D;text-transform: none;}
+    #altindex{font-size:14px;display:block;color:#000b17;font-family:"Droid Sans",sans-serif;font-weight:800;letter-spacing:.05em;line-height:1;margin:0;text-transform:uppercase;transition:all .4s}
+    #altindex p{margin:5px 0}
+    #altindex small{font-weight:200;font-size:13px;color:#7A838D}
+    #altindex article{margin:5px 0;font-weight:200;text-transform: none;font-size:13px;color:#7A838D}
+    </style>
+
+    <script src="https://unpkg.com/vue/dist/vue.min.js"></script><!-- 2.2.1 -->
+    <script src="https://cdn.jsdelivr.net/vue.resource/1.0.3/vue-resource.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js" charset="utf-8"></script>
+
+  </head>
+  <body>
+wut
+    <div class="datablock">
+      <div id="altindex">
+        <div v-for="item in $data.gridData">
+          <div v-for="title in item">
+            <p>{{title["title"]}}</p>
+            <small><a v-bind:href='title["url"]' target="_blank">{{title["url"]}}</a></small>
+            <article>{{title["selftext"]}}</article>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+
+    Vue.use(VueResource)
+
+    var altindex = new Vue({
+
+        el: '#altindex',
+        data: {
+          gridData: [
+          "-", "-"
+          ]
+        },
+        filters: {
+          moment: function(str) {
+            var d = new Date(str);
+            if (moment(d).isValid() ) {
+              return moment(d).format('MMMM Do \'YY, h:mm a');
+            } else {
+              return "-";
+            }
+          },
+          dollars: function(str) {
+            var dp = str/100
+            if (isNaN(dp)) {
+              return "-"
+            } else {
+              return dp
+            }
+          },
+          bitcoins: function(str) {
+            var dp = Math.round(str * 1000000) / 1000000
+            if (isNaN(dp)) {
+              return "-"
+            } else {
+              return dp
+            }
+          }
+        },
+        mounted: function() {
+          var vm = this
+          vm.$http.get("https://medium.com/feed/cryptolounge?alt=json-in-script")
+            .then(function (response) {
+              console.log(response.data)
+              vm.gridData = response.data //["data"]["children"].slice(1,6) //[0]["data"]["title"]
+            })
+            .catch(function (error) {
+              vm.gridData = error
+            })
+          setInterval(function() {
+            vm.$http.get("https://medium.com/feed/cryptolounge?alt=json-in-script")
+              .then(function (response) {
+                vm.gridData = response.data //["data"]["children"].slice(1,6) //[0]["data"]["title"]
+              })
+          }, 10000)
+        }
+    })
+    </script>
+
+  </body>
+</html>
