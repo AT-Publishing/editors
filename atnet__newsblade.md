@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["Large energy supplier in the Czech Republic to start accepting cryptocurrency payments", "https://news.bitcoin.com/czech-utility-company-introduces-crypto-payments/"],
-["Coinbase bought Paradex to expand to the DEX market", "https://seekingalpha.com/article/4176852-coinbase-acquires-paradex-decentralized-token-exchange"],
-["Novogratz sees DOJ Bitcoin manipulation probe as a good thing", "https://seekingalpha.com/news/3359411-novogratz-sees-doj-bitcoin-manipulation-probe-good-thing-bloomberg"],
-["EtherScan released DEX Orderbooks search, so that you know on which DEX to find best rates for your token", "https://etherscan.io/orderbooks"]
+["First look at Paradex / An ERC20 relay launching mid-November", "https://medium.com/paradex/paradex-first-look-e11260232354"],
+["It's coming / EOS token holders to complete ETH address registration before 2nd June", "https://ambcrypto.com/eos-token-holders-expected-complete-ethereum-address-registration-june-2nd/"],
+["The selloff / German authorities have just made around $14 million from the sale of Bitcoin and other cryptocurrencies that they seized in criminal investigations", "https://fortune.com/2018/05/29/germany-seized-bitcoin-emergency-sale/"],
+["Christian Crowley of ConsenSys dApp Alethio / ETH network growth is undeniable", "https://www.newsbtc.com/2018/05/29/ethereum-network-noted-major-growth-2017-analytics-firm-claims/"]
 ]
 layout: newsblade
 permalink: /newsblade
