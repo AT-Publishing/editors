@@ -1,10 +1,9 @@
 ---
 category: 'news'
 links: [
-["
-SEC Chair Says Bitcoin Is A Currency, Not Security", "https://www.investopedia.com/news/sec-chair-says-bitcoin-not-security/"],
-["SeriesX Raises $2 Million in Funding for its Platform Built on the Ethereum","https://www.siliconhillsnews.com/2018/06/07/austin-based-seriesx-raises-2-million-in-funding-for-its-platform-built-on-the-ethereum-blockchain/"],
-["Goldman-backed Poloniex owning Circle in talks to seek banking license", "https://www.reuters.com/article/us-fintech-banking-circle/goldman-backed-circle-in-talks-to-seek-banking-license-idUSKCN1J21V1"],
+["According to employees at the company, R3 could be out of money by early 2019", "https://ethereumworldnews.com/blockchain-startup-r3-could-be-floundering-out-of-money/"],
+["Forbes is venturing into price analyses / What's next for BTC 14k or 1.6k", "https://www.forbes.com/consent/?toURL=https://www.forbes.com/sites/naeemaslam/2018/06/08/what-is-next-for-bitcoin-14000-or-1600/"],
+["The Swiss are voting on the radical concept of “sovereign money”—the anti-bitcoin","https://qz.com/1299698/switzerlands-sovereign-money-vollgeld-initiative-is-the-anti-bitcoin/"],
 ["Huobi Group is investing 100 MM USD to build its own public blockchain - a business platform future tech companies", "https://reut.rs/2sKGCLY"]
 ]
 layout: newsblade
