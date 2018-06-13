@@ -1,10 +1,9 @@
 ---
 category: 'news'
 links: [
-["According to employees at the company, R3 could be out of money by early 2019", "https://ethereumworldnews.com/blockchain-startup-r3-could-be-floundering-out-of-money/"],
-["Forbes is venturing into price analyses / What's next for BTC 14k or 1.6k", "https://www.forbes.com/consent/?toURL=https://www.forbes.com/sites/naeemaslam/2018/06/08/what-is-next-for-bitcoin-14000-or-1600/"],
-["The Swiss are voting on the radical concept of “sovereign money”—the anti-bitcoin","https://qz.com/1299698/switzerlands-sovereign-money-vollgeld-initiative-is-the-anti-bitcoin/"],
-["Huobi Group is investing 100 MM USD to build its own public blockchain - a business platform future tech companies", "https://reut.rs/2sKGCLY"]
+["University of Texas analyzed Bitfinex trading and claims BTC only rose due to Tether manipulation (Entrepreneur.com called the 2017 bull run a 'scam')", "https://www.telegraph.co.uk/technology/2018/06/13/bitcoins-soaring-value-manipulation-scientists-claim/"],
+["Trading desks speculate that crypto needs some positive fundamental news blast to turn the decline", "https://www.marketwatch.com/story/heres-why-bitcoin-is-fallingand-it-isnt-just-the-coinrail-exchange-hack-2018-06-13"],
+["The ETH alleged hack is said to have seen $20 Million lifted from the Ethereum network through an attack on Port 8584", "https://cryptodaily.co.uk/2018/06/ethereum-sinks-to-new-low-as-hackers-steal-20-million-through-port-8584-hack/"]
 ]
 layout: newsblade
 permalink: /newsblade
