@@ -1,20 +1,32 @@
 
 { "items": [
   {
-    "title": "Consensus2018 Live Stream at CoinDesk",
-    "url": "https://www.coindesk.com/events/consensus-2018/live/"
+    "title": "University of Texas analyzed Bitfinex trading and claims BTC only rose due to Tether manipulation (Entrepreneur.com called the 2017 bull run a &#39;scam&#39;)",
+    "url": "https://www.telegraph.co.uk/technology/2018/06/13/bitcoins-soaring-value-manipulation-scientists-claim/"
   },
   {
-    "title": "DEVCON4 dates announced",
-    "url": "https://cryptocurrencynews.com/daily-news/ethereum-news/ethereum-announces-devcon4/"
+    "title": "Trading desks speculate that crypto needs some positive fundamental news blast to turn the decline",
+    "url": "https://www.marketwatch.com/story/heres-why-bitcoin-is-fallingand-it-isnt-just-the-coinrail-exchange-hack-2018-06-13"
   },
   {
-    "title": "The KYC and compliance platform traceto.io adds John Ng to its advisory board",
-    "url": "https://news.altcointrading.net/press/tracetoio/"
+    "title": "The ETH alleged hack is said to have seen $20 Million lifted from the Ethereum network through an attack on Port 8584",
+    "url": "https://cryptodaily.co.uk/2018/06/ethereum-sinks-to-new-low-as-hackers-steal-20-million-through-port-8584-hack/"
   },
   {
-    "title": "DEX Trading Theory // Atomic Arbitrage Between Decentralized Exchanges",
-    "url": "https://rados.io/atomic-arbitrage-between-decentralized-exchanges/"
+    "title": "Post-ico token retention charts - How quickly did people dump their tokens after a sale? By @coin_fi",
+    "url": "https://buff.ly/2IEco74"
+  },
+  {
+    "title": "Tooling for crypto traders - Reddit Sentiment Analysis with link to full code so that you can literally $DYOR. By @rados_io",
+    "url": "https://buff.ly/2k61wRT"
+  },
+  {
+    "title": "Keep it simple, avoid paralysis, think like a market maker. “Things You Learn After 1 Year of Day Trading for a Living” by @algonell",
+    "url": "https://bit.ly/2JQg3zm"
+  },
+  {
+    "title": "Long read for cryptotraders on market timing - a lot of data, testing out crypto basket indexes. By altcointrading_. Honorable mentions - @santimentfeed and @bbands.",
+    "url": "https://buff.ly/2IlSg9G"
   }
 ]
 }

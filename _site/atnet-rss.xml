@@ -11,10 +11,10 @@
 
 
     <link>https://www.altcointrading.net</link>
-    <atom:link href="http://localhost:4000/atnet-rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="/atnet-rss.xml" rel="self" type="application/rss+xml"/>
 
-    <pubDate>Tue, 15 May 2018 06:24:09 -0400</pubDate>
-    <lastBuildDate>Tue, 15 May 2018 06:24:09 -0400</lastBuildDate>
+    <pubDate>Wed, 13 Jun 2018 17:25:00 -0400</pubDate>
+    <lastBuildDate>Wed, 13 Jun 2018 17:25:00 -0400</lastBuildDate>
 
     
       <item>
@@ -26,8 +26,8 @@
 
         
 
-        <link>http://localhost:4000/atnet-rss.xml</link>
-        <guid isPermaLink="true">http://localhost:4000/atnet-rss.xml</guid>
+        <link>/atnet-rss.xml</link>
+        <guid isPermaLink="true">/atnet-rss.xml</guid>
 
       </item>
     
@@ -40,8 +40,8 @@
 
         
 
-        <link>http://localhost:4000/atnet.json</link>
-        <guid isPermaLink="true">http://localhost:4000/atnet.json</guid>
+        <link>/atnet.json</link>
+        <guid isPermaLink="true">/atnet.json</guid>
 
       </item>
     
@@ -50,12 +50,26 @@
         <title></title>
         <description></description>
 
-        <pubDate>Tue, 15 May 2018 05:08:28 -0400</pubDate>
+        <pubDate>Wed, 13 Jun 2018 16:11:10 -0400</pubDate>
 
         
 
-        <link>http://localhost:4000/newsblade</link>
-        <guid isPermaLink="true">http://localhost:4000/newsblade</guid>
+        <link>/newsblade</link>
+        <guid isPermaLink="true">/newsblade</guid>
+
+      </item>
+    
+      <item>
+
+        <title></title>
+        <description></description>
+
+        <pubDate>Wed, 13 Jun 2018 17:00:29 -0400</pubDate>
+
+        
+
+        <link>/mastery</link>
+        <guid isPermaLink="true">/mastery</guid>
 
       </item>
     
@@ -68,8 +82,8 @@
 
         
 
-        <link>http://localhost:4000/cryptolounge</link>
-        <guid isPermaLink="true">http://localhost:4000/cryptolounge</guid>
+        <link>/cryptolounge</link>
+        <guid isPermaLink="true">/cryptolounge</guid>
 
       </item>
     
@@ -82,8 +96,8 @@
 
         
 
-        <link>http://localhost:4000/_headers</link>
-        <guid isPermaLink="true">http://localhost:4000/_headers</guid>
+        <link>/_headers</link>
+        <guid isPermaLink="true">/_headers</guid>
 
       </item>
     
@@ -96,8 +110,8 @@
 
         
 
-        <link>http://localhost:4000/index.json</link>
-        <guid isPermaLink="true">http://localhost:4000/index.json</guid>
+        <link>/index.json</link>
+        <guid isPermaLink="true">/index.json</guid>
 
       </item>
     
@@ -110,8 +124,8 @@
 
         
 
-        <link>http://localhost:4000/newsblade/when-you-get-flyffypony-ed.html</link>
-        <guid isPermaLink="true">http://localhost:4000/newsblade/when-you-get-flyffypony-ed.html</guid>
+        <link>/newsblade/when-you-get-flyffypony-ed.html</link>
+        <guid isPermaLink="true">/newsblade/when-you-get-flyffypony-ed.html</guid>
 
       </item>
     
@@ -124,8 +138,8 @@
 
         
 
-        <link>http://localhost:4000/newsblade/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount.html</link>
-        <guid isPermaLink="true">http://localhost:4000/newsblade/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount.html</guid>
+        <link>/newsblade/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount.html</link>
+        <guid isPermaLink="true">/newsblade/why-bitfinex-went-from-a-premium-in-its-crypto-usd-pairs-to-now-a-significant-discount.html</guid>
 
       </item>
     
@@ -138,8 +152,8 @@
 
         
 
-        <link>http://localhost:4000/newsblade/you-can-still-get-lumens-for-your-btc-in-a-wallet.html</link>
-        <guid isPermaLink="true">http://localhost:4000/newsblade/you-can-still-get-lumens-for-your-btc-in-a-wallet.html</guid>
+        <link>/newsblade/you-can-still-get-lumens-for-your-btc-in-a-wallet.html</link>
+        <guid isPermaLink="true">/newsblade/you-can-still-get-lumens-for-your-btc-in-a-wallet.html</guid>
 
       </item>
     
