@@ -1,9 +1,9 @@
 ---
 category: 'news'
 links: [
-["University of Texas analyzed Bitfinex trading and claims BTC only rose due to Tether manipulation (Entrepreneur.com called the 2017 bull run a 'scam')", "https://www.telegraph.co.uk/technology/2018/06/13/bitcoins-soaring-value-manipulation-scientists-claim/"],
-["Trading desks speculate that crypto needs some positive fundamental news blast to turn the decline", "https://www.marketwatch.com/story/heres-why-bitcoin-is-fallingand-it-isnt-just-the-coinrail-exchange-hack-2018-06-13"],
-["The ETH alleged hack is said to have seen $20 Million lifted from the Ethereum network through an attack on Port 8584", "https://cryptodaily.co.uk/2018/06/ethereum-sinks-to-new-low-as-hackers-steal-20-million-through-port-8584-hack/"]
+["Very early, but here is working prototype of Ledger Nano S with EOS - Hopefully official app soon // By @nodroid", "https://medium.com/@cryptofairy/eos-on-my-ledger-nano-s-wallet-5b7c5bb6d0ae"],
+["Business Insider // Selling crypto now is like selling Apple in 2001", "http://www.businessinsider.com/ico-dotcom-bubble-yoni-assia-etoro-crypto-blockchain-joseph-lubin-bitcoin-ethereum-2018-6"],
+["EverLife.AI // Why we chose the Stellar blockchain", "https://medium.com/everlife-ai/5-reasons-why-we-chose-stellar-ec3eb77f307"]
 ]
 layout: newsblade
 permalink: /newsblade
