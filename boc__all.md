@@ -1,6 +1,8 @@
 ---
 category: 'news'
 links: [
+["By @CryptoOracleLLC / Security tokens might be the next big thing", "https://medium.com/crypto-oracle/prepare-yourself-the-security-token-tsunami-is-about-to-hit-9d5517caff49"],
+["How the Stellar DEX fights scam tokens (StellarPort)", "https://medium.com/@support_55248/stellarport-verifying-the-stellar-dex-6529dbc76499"],
 ["Very early, but here is working prototype of Ledger Nano S with EOS - Hopefully official app soon // By @nodroid", "https://medium.com/@cryptofairy/eos-on-my-ledger-nano-s-wallet-5b7c5bb6d0ae"],
 ["Business Insider // Selling crypto now is like selling Apple in 2001", "http://www.businessinsider.com/ico-dotcom-bubble-yoni-assia-etoro-crypto-blockchain-joseph-lubin-bitcoin-ethereum-2018-6"],
 ["Post-ico token retention charts - How quickly did people dump their tokens after a sale? By @coin_fi", "https://buff.ly/2IEco74"],
