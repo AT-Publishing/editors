@@ -1,8 +1,9 @@
 ---
 category: 'news'
 links: [
-["Bitcoin a Buy 'Below $5000', Says Allianz Chief Economic Advisor", "https://www.ccn.com/bitcoin-a-buy-below-5000-says-allianz-chief-economic-advisor/"],
-["Multicoin Capital (backed by Marc Andreessen) is bullish on ETH, says XRP should be a security, LTC has no reason to exist, and ... COUGH ... the EOS launch was not such a clusterfuck as many people say", "https://bitcoinist.com/ripple-security-litecoin-ethereum-best-multicoin-capital/"]
+["Emerging Technologies // Blockchain adoption was projected to happen within 5 to 10 years in 2017", "https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/"],
+["JP Morgan internal prediction report // XRP, BTC, ETH, ADA, DASH, LTC are here to stay", "https://bcfocus.com/news/ripple-bitcoin-ethereum-cardano-dash-litcoin-are-here-to-stay-jp-morgan-internal-cryptocurrency-prediction-report/17602/"],
+["CNBC Fast Money called bottoms this Monday", "https://www.cnbc.com/video/2018/07/02/bitcoin-surges-back-is-the-bottom-in.html"]
 ]
 layout: newsblade
 permalink: /newsblade

@@ -1,6 +1,8 @@
 ---
 category: 'news'
 links: [
+["Bitcoin a Buy 'Below $5000', Says Allianz Chief Economic Advisor", "https://www.ccn.com/bitcoin-a-buy-below-5000-says-allianz-chief-economic-advisor/"],
+["Multicoin Capital (backed by Marc Andreessen) is bullish on ETH, says XRP should be a security, LTC has no reason to exist, and ... COUGH ... the EOS launch was not such a clusterfuck as many people say", "https://bitcoinist.com/ripple-security-litecoin-ethereum-best-multicoin-capital/"],
 ["There's always some reason isn't there // Spencer Bogart says crypto prices are pressed down because last year's crypto hedge funds lock up is up now - via @FXStreetNews", "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-analysis-btc-usd-rangebound-spencer-bogart-explains-why-cryptos-crashed-this-year-201806260631"],
 ["Metamask is adding Ethereum Classic", "https://marketexclusive.com/metamask-add-ethereum-classic-etc-blockchain-bridge-services/2018/06/"],
 ["In the news / The cryptocurrency equivalent of Amazon rising of the ashes of dotcom bubble will most likely come from Asia (the article is also mocking Calvin Ayre if that's more attractive to you than FT's opinions)", "https://www.ft.com/content/15bce62c-73c7-11e8-aa31-31da4279a601"],
