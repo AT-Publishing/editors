@@ -1,6 +1,11 @@
 ---
 category: 'news'
 links: [
+["CBOE Files with SEC for Bitcoin ETF", "https://bitcoinmagazine.com/articles/cboe-files-sec-bitcoin-etf/"],
+["Ethereum Price Little Changed After Bancor Hack Compromises $12 Million ETH", "https://hacked.com/ethereum-price-holds-steady-after-bancor-hack-compromises-12-million-eth/"],
+["Emerging Technologies // Blockchain adoption was projected to happen within 5 to 10 years in 2017", "https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/"],
+["The EOS nightmare continues / EOS block producers briefly crash due to RAM misconfiguration", "https://thenextweb.com/hardfork/2018/07/09/eos-block-crash/"],
+["The man who created the world wide web has regrets / It doesn't serve people like it was meant to", "https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets"],
 ["Bitcoin a Buy 'Below $5000', Says Allianz Chief Economic Advisor", "https://www.ccn.com/bitcoin-a-buy-below-5000-says-allianz-chief-economic-advisor/"],
 ["Multicoin Capital (backed by Marc Andreessen) is bullish on ETH, says XRP should be a security, LTC has no reason to exist, and ... COUGH ... the EOS launch was not such a clusterfuck as many people say", "https://bitcoinist.com/ripple-security-litecoin-ethereum-best-multicoin-capital/"],
 ["There's always some reason isn't there // Spencer Bogart says crypto prices are pressed down because last year's crypto hedge funds lock up is up now - via @FXStreetNews", "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-analysis-btc-usd-rangebound-spencer-bogart-explains-why-cryptos-crashed-this-year-201806260631"],
