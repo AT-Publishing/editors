@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["AmWager.com, the premier website for watching and betting on live horse racing, is now accepting $BTC and $BCH deposits / 'We have worked diligently with the Oregon Racing Commission and BitPay to bring cryptocurrencies to the advance deposit wagering industry'", "https://www.thebusinessofcrypto.com/articles/amwager-accepts-crypto-deposits/"],
-["Intel acquires eASIC to potentially venture into IoT", "https://reut.rs/2NckGlv"],
-["The Fight Over Mt. Gox’s Bitcoin Stash", "https://www.bloomberg.com/news/articles/2018-07-12/mark-karpel-s-is-delighted-he-won-t-become-a-bitcoin-billionaire"],
-["Emerging Technologies // Blockchain adoption was projected to happen within 5 to 10 years in 2017", "https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/"]
+["Since yesterday there has been news about BlackRock CEO investigating entering crypto. It may be just a rumor, the CEO denied it.", "https://twitter.com/BOC__Official/status/1018965311175962624"],
+["International financial watchdog, the Financial Stability Board (FSB), has released a report that found bitcoin and cryptocurrencies do not currently pose a material risk to the global financial system.", "https://www.forbes.com/sites/billybambrough/2018/07/17/international-finance-watchdog-in-surprise-bitcoin-backing-as-it-reveals-crypto-stocktake/#2bf1c5ae32c3"],
+["Is KodakCoin dead? Kodak has quietly canceled its Bitcoin miner", "https://thenextweb.com/hardfork/2018/07/17/kodak-kashminer-bitcoin/"],
+["The Fight Over Mt. Gox’s Bitcoin Stash", "https://www.bloomberg.com/news/articles/2018-07-12/mark-karpel-s-is-delighted-he-won-t-become-a-bitcoin-billionaire"]
 ]
 layout: newsblade
 permalink: /newsblade
