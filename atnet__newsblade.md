@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["The Narrative Of The Price Of Bitcoin / More likely a ‘bull trap’ now but ‘accumulating’.", "https://www.forbes.com/sites/investor/2018/07/19/the-narrative-of-the-price-of-bitcoin/"],
-["Citadel's Ken Griffin knocks Bitcoin", "https://www.cnbc.com/video/2018/07/18/hedge-fund-billionaire-griffin-knocks-bitcoin.html"],
-["Ethereum may increase adoption of blockchain says Fintech CEO – Jeremy Allaire", "https://smartereum.com/25030/ethereum-eth-news-today-ethereum-eth-may-be-the-driving-force-of-increased-blockchain-adoption-jeremy-allaire-ethereum-latest-update-ethereum-blockchain-eth-usd-pri/"],
-["BlackRock CEO denied the company's interest in crypto", "https://twitter.com/BOC__Official/status/1018965311175962624"]
+["Ponzi-like game spams the ETH network", "https://www.fxstreet.com/cryptocurrencies/news/ponzi-like-game-spams-ethereum-network-eth-goes-down-belwo-critical-460-201807240521"],
+["New stablecoin solutions have raised more than $240 million in funding", "https://dailyhodl.com/2018/07/23/ethereum-network-boasts-majority-of-new-stablecoins-that-attracted-240-million-in-funding/"],
+["Wanchain interoperability with ETH via atomic swaps is functional", "https://bitcoinexchangeguide.com/wanchain-wan-blockchain-interoperability-with-ethereum-via-atomic-swaps-is-operational/"],
+["The Narrative Of The Price Of Bitcoin / More likely a ‘bull trap’ now but ‘accumulating’.", "https://www.forbes.com/sites/investor/2018/07/19/the-narrative-of-the-price-of-bitcoin/"]
 ]
 layout: newsblade
 permalink: /newsblade
