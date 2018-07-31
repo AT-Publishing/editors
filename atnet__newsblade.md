@@ -1,10 +1,11 @@
 ---
 category: 'news'
 links: [
-["Ponzi-like game spams the ETH network", "https://www.fxstreet.com/cryptocurrencies/news/ponzi-like-game-spams-ethereum-network-eth-goes-down-belwo-critical-460-201807240521"],
-["New stablecoin solutions have raised more than $240 million in funding", "https://dailyhodl.com/2018/07/23/ethereum-network-boasts-majority-of-new-stablecoins-that-attracted-240-million-in-funding/"],
-["Wanchain interoperability with ETH via atomic swaps is functional", "https://bitcoinexchangeguide.com/wanchain-wan-blockchain-interoperability-with-ethereum-via-atomic-swaps-is-operational/"],
-["The Narrative Of The Price Of Bitcoin / More likely a ‘bull trap’ now but ‘accumulating’.", "https://www.forbes.com/sites/investor/2018/07/19/the-narrative-of-the-price-of-bitcoin/"]
+["Performance of crypto index funds / Before 2015 we would better have just bought BTC, between 2015 and 2017 the opposite is true.", "https://buff.ly/2Nly1bg"],
+["Ex-Bitcoin developer Martti 'Sirius' Malmi joins cryptocurrency called AXE", "https://www.coindesk.com/bitcoins-second-developer-returning-crypto/"],
+["“Smart Contracts on Steroids - Solving the Problems Facing Ethereum’s Solidity” by @Rachelwolf00", "https://hackernoon.com/smart-contracts-on-steroids-solving-the-problems-facing-ethereums-solidity-a1f71cc260ce"],
+["Why do we build decentralized protocols? Resistant protocols - How decentralization evolves", "https://buff.ly/2JZfgrR"],
+["Australian Bank Taps Ethereum Blockchain for 17-Ton Almond Shipment to Germany", "https://www.ccn.com/australian-big-4-bank-taps-ethereum-blockchain-for-17-ton-almond-shipment-to-germany/"]
 ]
 layout: newsblade
 permalink: /newsblade
