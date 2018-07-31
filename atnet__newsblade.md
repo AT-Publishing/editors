@@ -2,6 +2,7 @@
 category: 'news'
 links: [
 ["Performance of crypto index funds / Before 2015 we would better have just bought BTC, between 2015 and 2017 the opposite is true.", "https://buff.ly/2Nly1bg"],
+["Bitcoin Dev List / Bech32 post-segwit confusion is brought up", "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-July/016271.html"],
 ["Ex-Bitcoin developer Martti 'Sirius' Malmi joins cryptocurrency called AXE", "https://www.coindesk.com/bitcoins-second-developer-returning-crypto/"],
 ["“Smart Contracts on Steroids - Solving the Problems Facing Ethereum’s Solidity” by @Rachelwolf00", "https://hackernoon.com/smart-contracts-on-steroids-solving-the-problems-facing-ethereums-solidity-a1f71cc260ce"],
 ["Why do we build decentralized protocols? Resistant protocols - How decentralization evolves", "https://buff.ly/2JZfgrR"],
