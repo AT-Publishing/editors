@@ -1,6 +1,8 @@
 ---
 category: 'news'
 links: [
+["A team at Northwestern University in collab with bloXroute Labs are working on BTC scalability issues via improved node sync, without removing its decentralized nature", "https://www.marketwatch.com/story/a-team-at-northwestern-think-they-have-solved-one-of-bitcoins-biggest-problems-2018-08-14"],
+["18k BTC moved to a BitMEX account", "https://twitter.com/flibbr/status/1029460417444306945"],
 ["New stablecoin solutions have raised more than $240 million in funding", "https://dailyhodl.com/2018/07/23/ethereum-network-boasts-majority-of-new-stablecoins-that-attracted-240-million-in-funding/"],
 ["The Narrative Of The Price Of Bitcoin / More likely a ‘bull trap’ now but ‘accumulating’.", "https://www.forbes.com/sites/investor/2018/07/19/the-narrative-of-the-price-of-bitcoin/"],
 ["Grayscale’s Bitcoin Investment Trust logs massive institutional investment inflow in first half of 2018 / Weekly in of $6 million dollars", "https://www.marketwatch.com/story/brutal-bear-market-for-bitcoin-doesnt-stop-record-inflows-to-this-digital-asset-firm-2018-07-18"],
