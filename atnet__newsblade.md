@@ -1,9 +1,10 @@
 ---
 category: 'news'
 links: [
-["Iran officially acknowledges cryptocurrency mining as an industry and is set to draft a policy framework for it in the next three weeks. Due to $IRR crisis, $BTC is starting to effectively act as a currency.", "https://www.blockasia.io/iran-officially-acknowledges-cryptocurrency-mining-as-an-industry-and-is-set-to-draft-a-policy-framework-for-encrypted-mining-in-the-next-three-weeks/"],
-["Cavin Ayre dissing Bitmain, calling it an ally of Blockstream and criticizing the Wormhole implementation / Via @CryptoAmb by @I_Priyamvada", "https://ambcrypto.com/bitcoin-cash-proponent-calvin-ayre-dissing-bitmain-an-insider-look-into-the-bch-meetings/"],
-["Bitcoin Giant Bitmain Launches Ethereum (ETH) Mining Pool / via @SludgeFeed", "https://sludgefeed.com/bitmain-launches-ethereum-mining-pool/"]
+["You Can Now Pay With Bitcoin Via Lightning at CoinGate’s 4,000 Merchants", "https://www.nasdaq.com/article/you-can-now-pay-with-bitcoin-via-lightning-at-coingates-4000-merchants-cm1018743"],
+["Goldman Sachs Chief Financial Officer Martin Chavez called a report that the bank was ditching plans to launch a cryptocurrency trading desk fake news.", "https://www.cnbc.com/2018/09/06/goldman-sachs-cfo-calls-reports-of-shutting-down-crypto-desk-fake-news.html"],
+["Tilman Fertitta’s luxury car dealership now accepts Bitcoin / via @houstonchron", " https://www.chron.com/business/retail/article/Tilman-Fertitta-s-luxury-car-dealership-now-13207256.php"],
+["Coinbase Explores Bitcoin-Backed ETF With Wall Street Giant / via @EtherWorldNews", "https://ethereumworldnews.com/coinbase-explores-bitcoin-backed-etf-with-wall-street-giant/"]
 ]
 layout: newsblade
 permalink: /newsblade
