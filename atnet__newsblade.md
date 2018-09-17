@@ -1,9 +1,9 @@
 ---
 category: 'news'
 links: [
-["Citi is circulating a plan that will make it the first bank to (nearly) trade physical Bitcoin / via @bitcoinsguide ", "https://bitcoinexchangeguide.com/citigroup-digital-asset-receipt-bitcoin-security-product/"],
-["You Can Now Pay With Bitcoin Via Lightning at CoinGate’s 4,000 Merchants", "https://www.nasdaq.com/article/you-can-now-pay-with-bitcoin-via-lightning-at-coingates-4000-merchants-cm1018743"],
-["Tilman Fertitta’s luxury car dealership now accepts Bitcoin / via @houstonchron", " https://www.chron.com/business/retail/article/Tilman-Fertitta-s-luxury-car-dealership-now-13207256.php"],
+["Tezos Jumps 25% as Mainnet Launch Looms / Via @newsbtc", "https://www.newsbtc.com/2018/09/15/cryptocurrency-market-update-tezos-jumps-25-as-mainnet-launch-looms/"],
+["The State of Bitcoin Cash Today / Via @crowdfundinside", "https://www.crowdfundinsider.com/2018/09/139066-bitcoin-cash-is-the-end-near/"],
+["Gemini To Introduce LTC Support On October 13th, 2018 / Via @EtherWorldNews", "https://ethereumworldnews.com/gemini-announces-litecoin-ltc-support/"]
 ]
 layout: newsblade
 permalink: /newsblade
