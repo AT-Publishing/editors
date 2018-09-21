@@ -1,9 +1,9 @@
 ---
 category: 'news'
 links: [
-["Tezos Jumps 25% as Mainnet Launch Looms / Via @newsbtc", "https://www.newsbtc.com/2018/09/15/cryptocurrency-market-update-tezos-jumps-25-as-mainnet-launch-looms/"],
-["The State of Bitcoin Cash Today / Via @crowdfundinside", "https://www.crowdfundinsider.com/2018/09/139066-bitcoin-cash-is-the-end-near/"],
-["Gemini To Introduce LTC Support On October 13th, 2018 / Via @EtherWorldNews", "https://ethereumworldnews.com/gemini-announces-litecoin-ltc-support/"]
+["Lookback / On January 14, 2015 the price of Bitcoin bottomed. Wondering what Crypto Twitter was like back then?", "https://twitter.com/spencernoon/status/1042070237770932225"],
+["How bad will the next crisis be? JPMorgan Chase & Co. made a model, next crisis is expected in 2020.", "https://twitter.com/BOC__Official/status/1042009608670392320"],
+["CVE-2018-17144 - Bitcoin Core Vulnerability Could Have Crashed the Network", "https://securityboulevard.com/2018/09/cve-2018-17144-bitcoin-core-vulnerability-could-have-crashed-the-network/"],
 ]
 layout: newsblade
 permalink: /newsblade
