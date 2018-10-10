@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["Op-Ed - Why Is There So Much Talk About a Bitcoin ETF? / via @BitcoinMagazine", "https://bitcoinmagazine.com/articles/op-ed-why-there-so-much-talk-about-bitcoin-etf/"],
-["XRP and BTC volumes are being inflated by 500% on a top exchange in India / by @crypticfebin for @CryptoAmb", "https://ambcrypto.com/bitcoin-btc-xrp-volumes-manipulated-by-bitbns-found-to-be-inflated-by-over-500/"],
-["Fortnite aimbot scams are hiding Bitcoin-mining malware / via @pcgamesn", "https://www.pcgamesn.com/fortnite/fortnite-malware-bitcoin"],
-["Lookback / On January 14, 2015 the price of Bitcoin bottomed. Wondering what Crypto Twitter was like back then?", "https://twitter.com/spencernoon/status/1042070237770932225"]
+["Samourai Prepares for Internet-Free Bitcoin Transactions With TxTenna Launch", "https://bitcoinist.com/samourai-prepares-for-internet-free-bitcoin-transactions-with-txtenna-launch/"],
+["Ethereum co-founder Joseph Lubin has been announced as the keynote speaker at SXSW, expected to give ETH an exposure boost", "https://www.forbes.com/sites/billybambrough/2018/10/10/ethereum-set-to-be-boosted-by-exciting-sxsw-keynote/#4d4f73134059"],
+["Tron (TRX) Launches All-In-One Tool Suite for Developers", "https://ethereumworldnews.com/tron-trx-launches-all-in-one-tool-suite-for-developers/"],
+["Op-Ed - Why Is There So Much Talk About a Bitcoin ETF? / via @BitcoinMagazine", "https://bitcoinmagazine.com/articles/op-ed-why-there-so-much-talk-about-bitcoin-etf/"]
 ]
 layout: newsblade
 permalink: /newsblade
