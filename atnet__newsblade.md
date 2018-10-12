@@ -1,10 +1,9 @@
 ---
 category: 'news'
 links: [
-["Samourai Prepares for Internet-Free Bitcoin Transactions With TxTenna Launch", "https://bitcoinist.com/samourai-prepares-for-internet-free-bitcoin-transactions-with-txtenna-launch/"],
-["Ethereum co-founder Joseph Lubin has been announced as the keynote speaker at SXSW, expected to give ETH an exposure boost", "https://www.forbes.com/sites/billybambrough/2018/10/10/ethereum-set-to-be-boosted-by-exciting-sxsw-keynote/#4d4f73134059"],
-["Tron (TRX) Launches All-In-One Tool Suite for Developers", "https://ethereumworldnews.com/tron-trx-launches-all-in-one-tool-suite-for-developers/"],
-["Op-Ed - Why Is There So Much Talk About a Bitcoin ETF? / via @BitcoinMagazine", "https://bitcoinmagazine.com/articles/op-ed-why-there-so-much-talk-about-bitcoin-etf/"]
+["Chainalysis BTC transaction research / Whales were not selling off Bitcoin in late 2017, but rather were net receivers. They were a stabilizing rather than destabilizing factor in the market.", "https://bitcoinist.com/chainalysis-finds-that-bitcoin-whales-are-not-the-sole-source-of-market-volatility/"],
+["Blockstream proposes a centralized solution to BTC fragmented liquidity - sidechain where tx are validated by big trading houses lie Bitfinex, OKCoin or Rock Trading / via @forbes", "https://www.forbes.com/sites/francescoppola/2018/10/11/blockstreams-new-solution-to-bitcoins-liquidity-problem-looks-oddly-familiar/#7e176f721e51"],
+["Samourai Prepares for Internet-Free Bitcoin Transactions With TxTenna Launch", "https://bitcoinist.com/samourai-prepares-for-internet-free-bitcoin-transactions-with-txtenna-launch/"]
 ]
 layout: newsblade
 permalink: /newsblade
