@@ -1,9 +1,9 @@
 ---
 category: 'news'
 links: [
-["Media are starting to factor in Bitcoin halving again", "https://www.thestreet.com/opinion/turnaround-tuesday-bitcoin-amazon-and-microsoft-oh-my--14754839"],
-["Tabb Group estimated daily bitcoin OTC volumes at $12B globally", "https://www.forbes.com/sites/astanley/2018/10/23/uncharted-bitcoin-otc-markets-gear-up-for-institutional-inflows/#1aaa720b7bac"],
-["Bitcoin has outperformed stocks in the last week, and a bigger bounce is on the way, says trader via @cnbc", "https://cnb.cx/2EtPMWf"]
+["Bitcoin Cash Spikes 20 Percent in the Wake of Upcoming Hard Fork Backed by Binance / via @cointelegraph", "https://cointelegraph.com/news/bitcoin-cash-spikes-20-percent-in-the-wake-of-upcoming-hard-fork-backed-by-binance"],
+["Tokens Are “Decoupling From Ethereum” Signaling a Potential Bull Run, Analysts Claim / via @CryptoGlobe", "https://www.cryptoglobe.com/latest/2018/11/tokens-are-decoupling-from-ethereum-signaling-a-potential-bull-run-analysts-claim/#.W9_jamqnc2Q.twitter"],
+["Ethereum $ETH Blockchain Community Gets Approval Nod From JP Morgan Execs / via @bitcoinsguide", "https://bitcoinexchangeguide.com/ethereum-eth-blockchain-community-gets-approval-nod-from-jp-morgan-execs/"]
 ]
 layout: newsblade
 permalink: /newsblade
