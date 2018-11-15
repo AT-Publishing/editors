@@ -1,9 +1,9 @@
 ---
 category: 'news'
 links: [
-["93% of Brits have heard of Bitcoin, only 4% have bought so far / via @Chepicap", "https://www.chepicap.com/en/news/5033/uk-survey-reveals-93-of-brits-have-heard-of-bitcoin-but-only-4-have-bought-btc.html"],
-["Amazon Partners On New Ethereum Marketplace For Enterprises / via @forbes", "https://www.forbes.com/sites/sarahhansen/2018/11/08/consensys-kaleido-launches-full-stack-marketplace-platform-for-enterprise-blockchains/#73bd54912ad8"],
-["Jack Dorsey’s Square, boosted by BTC business, reported its first quarterly profit of $20 million", "https://bitcoinist.com/square-bitcoin-quarterly-profit-q3/"]
+["What Triggered Bitcoin's Sharp Price Plunge? / via @forbes", "https://www.forbes.com/sites/cbovaird/2018/11/14/what-triggered-bitcoins-sharp-price-plunge/#4aece44c1d66"],
+["'Crypto civil war' slams bitcoin, but it won't last, says BKCM's Brian Kelly", "https://cnb.cx/2QJbFSW"],
+["Messenger app Kik Selects Stellar Over Ethereum for Token Launch / via @CoinDesk", "https://www.coindesk.com/two-chains-no-more-kik-selects-stellar-over-ethereum-for-crypto-token-launch"]
 ]
 layout: newsblade
 permalink: /newsblade

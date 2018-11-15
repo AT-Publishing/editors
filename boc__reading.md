@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["Samourai Prepares for Internet-Free Bitcoin Transactions With TxTenna Launch", "https://bitcoinist.com/samourai-prepares-for-internet-free-bitcoin-transactions-with-txtenna-launch/"],
-["Chainalysis BTC transaction research / Whales were not selling off Bitcoin in late 2017, but rather were net receivers. They were a stabilizing rather than destabilizing factor in the market.", "https://bitcoinist.com/chainalysis-finds-that-bitcoin-whales-are-not-the-sole-source-of-market-volatility/"],
+["93% of Brits have heard of Bitcoin, only 4% have bought so far / via @Chepicap", "https://www.chepicap.com/en/news/5033/uk-survey-reveals-93-of-brits-have-heard-of-bitcoin-but-only-4-have-bought-btc.html"],
+["Amazon Partners On New Ethereum Marketplace For Enterprises / via @forbes", "https://www.forbes.com/sites/sarahhansen/2018/11/08/consensys-kaleido-launches-full-stack-marketplace-platform-for-enterprise-blockchains/#73bd54912ad8"],
+["Jack Dorsey’s Square, boosted by BTC business, reported its first quarterly profit of $20 million", "https://bitcoinist.com/square-bitcoin-quarterly-profit-q3/"]
 ["Blockstream proposes a centralized solution to BTC fragmented liquidity - sidechain where tx are validated by big trading houses lie Bitfinex, OKCoin or Rock Trading / via @forbes", "https://www.forbes.com/sites/francescoppola/2018/10/11/blockstreams-new-solution-to-bitcoins-liquidity-problem-looks-oddly-familiar/#7e176f721e51"],
-["You Can Now Pay With Bitcoin Via Lightning at CoinGate’s 4,000 Merchants", "https://www.nasdaq.com/article/you-can-now-pay-with-bitcoin-via-lightning-at-coingates-4000-merchants-cm1018743"],
 ["Tooling for crypto traders - Reddit Sentiment Analysis with link to full code so that you can literally $DYOR. By @rados_io", "https://buff.ly/2k61wRT"]
 ]
 layout: newsblade
