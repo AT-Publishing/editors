@@ -1,9 +1,9 @@
 ---
 category: 'news'
 links: [
-["What Triggered Bitcoin's Sharp Price Plunge? / via @forbes", "https://www.forbes.com/sites/cbovaird/2018/11/14/what-triggered-bitcoins-sharp-price-plunge/#4aece44c1d66"],
-["'Crypto civil war' slams bitcoin, but it won't last, says BKCM's Brian Kelly", "https://cnb.cx/2QJbFSW"],
-["Messenger app Kik Selects Stellar Over Ethereum for Token Launch / via @CoinDesk", "https://www.coindesk.com/two-chains-no-more-kik-selects-stellar-over-ethereum-for-crypto-token-launch"]
+["A Gastoken Bug Making Ethereum Transactions on Exchanges Vulnerable Has Been Fixed / @bitcoinmagazine", "https://bitcoinmagazine.com/articles/bug-making-ethereum-transactions-exchanges-vulnerable-has-been-fixed/"],
+["Blockchain gaming and betting makes up 78% of dApps launched in Q3 od 2018 / @bloktcrypto", "https://blokt.com/news/gaming-and-betting-account-for-78-of-ethereum-dapps-launched-in-q3-2018-claims-new-report"],
+["ICE Postpones Bakkt's Bitcoin Futures Launch To January 2019 / @forbes", "https://www.forbes.com/sites/rebeccacampbell1/2018/11/21/ice-postpones-bakkts-bitcoin-futures-launch-to-january-2019/"]
 ]
 layout: newsblade
 permalink: /newsblade
