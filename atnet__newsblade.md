@@ -1,10 +1,10 @@
 ---
 category: 'news'
 links: [
-["Tradeblock compares centralized vs non-custodial exchanges in terms of traded volume, fees and regulations", "https://tradeblock.com/blog/an-analysis-of-decentralized-digital-currency-exchanges"],
-["A Gastoken Bug Making Ethereum Transactions on Exchanges Vulnerable Has Been Fixed / @bitcoinmagazine", "https://bitcoinmagazine.com/articles/bug-making-ethereum-transactions-exchanges-vulnerable-has-been-fixed/"],
-["Blockchain gaming and betting makes up 78% of dApps launched in Q3 od 2018 / @bloktcrypto", "https://blokt.com/news/gaming-and-betting-account-for-78-of-ethereum-dapps-launched-in-q3-2018-claims-new-report"],
-["ICE Postpones Bakkt's Bitcoin Futures Launch To January 2019 / @forbes", "https://www.forbes.com/sites/rebeccacampbell1/2018/11/21/ice-postpones-bakkts-bitcoin-futures-launch-to-january-2019/"]
+["70% of central banks exploring Central Bank Digital Currencies according to BIS", "https://www.ledgerinsights.com/bis-70-percent-central-bank-digital-currency-cbdc/"],
+["Ethereum Will Get ASIC-Resistant Update", "https://xbt.net/blog/ethereum-core-developers-give-nod-to-asic-resistant-update/"],
+["Japanese Regulators Deny Interest in Bitcoin ETF", "https://ethereumworldnews.com/japanese-regulator-bitcoin-etf-2019/"],
+["ICE Postpones Bakkt's Bitcoin Futures Launch To Soon(TM) /s", "https://www.forbes.com/sites/rebeccacampbell1/2018/11/21/ice-postpones-bakkts-bitcoin-futures-launch-to-january-2019/"]
 ]
 layout: newsblade
 permalink: /newsblade
